@@ -71,3 +71,6 @@
 
 // In c++ we have(__builtin_popcount(a))
 // count = __builtin_popcount(a) = 3
+
+
+
