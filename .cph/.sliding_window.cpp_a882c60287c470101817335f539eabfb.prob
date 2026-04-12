@@ -1,1 +1,0 @@
-{"name":"Local: sliding_window","url":"/Users/abhishekkushwaha/Desktop/Algorithms/sliding_window.cpp","tests":[{"id":1774543388841,"input":"9\n4 16\n2 3 5 5 2 1 4 8 3\n","output":" 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abhishekkushwaha/Desktop/Algorithms/sliding_window.cpp","group":"local","local":true}
